@@ -1,0 +1,149 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "Sarah Chen",
+      "slug": "sarah-chen",
+      "role": "Senior Frontend Engineer",
+      "bio": "Building the future of the web, one component at a time. Passionate about React, performance, and developer experience. 8+ years in the industry.",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+      "cover": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80",
+      "location": "San Francisco, CA",
+      "website": "https://sarahchen.dev",
+      "stats": {
+        "articles": 42,
+        "followers": 12400,
+        "following": 285,
+        "views": 890000
+      },
+      "social": {
+        "twitter": "https://twitter.com",
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+      },
+      "topics": ["React", "TypeScript", "Performance", "Next.js"],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Marcus Rivera",
+      "slug": "marcus-rivera",
+      "role": "Full Stack Developer & AI Enthusiast",
+      "bio": "I love solving complex problems with elegant code. Currently obsessed with AI integration in modern web apps. Speaker at JSConf 2024.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+      "cover": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
+      "location": "Austin, TX",
+      "website": "https://marcusrivera.io",
+      "stats": {
+        "articles": 38,
+        "followers": 9800,
+        "following": 412,
+        "views": 620000
+      },
+      "social": {
+        "twitter": "https://twitter.com",
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "youtube": "https://youtube.com"
+      },
+      "topics": ["CSS", "AI/ML", "Python", "JavaScript"],
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "Aisha Johnson",
+      "slug": "aisha-johnson",
+      "role": "Backend Engineer & Tech Writer",
+      "bio": "Node.js devotee. I write about APIs, databases, and cloud architecture. Making backend concepts accessible to everyone.",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+      "cover": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=80",
+      "location": "London, UK",
+      "website": "https://aishajohnson.dev",
+      "stats": {
+        "articles": 31,
+        "followers": 7600,
+        "following": 198,
+        "views": 480000
+      },
+      "social": {
+        "twitter": "https://twitter.com",
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+      },
+      "topics": ["Node.js", "TypeScript", "DevOps", "APIs"],
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Leo Park",
+      "slug": "leo-park",
+      "role": "Product Designer & UX Writer",
+      "bio": "Designing digital products that people love. I believe great design is invisible. Based in Seoul, working globally.",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+      "cover": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=1200&q=80",
+      "location": "Seoul, South Korea",
+      "website": "https://leopark.design",
+      "stats": {
+        "articles": 26,
+        "followers": 14200,
+        "following": 321,
+        "views": 720000
+      },
+      "social": {
+        "twitter": "https://twitter.com",
+        "instagram": "https://instagram.com",
+        "linkedin": "https://linkedin.com"
+      },
+      "topics": ["Design Systems", "UX", "Figma", "Accessibility"],
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "Priya Sharma",
+      "slug": "priya-sharma",
+      "role": "Performance Engineer",
+      "bio": "On a mission to make the web faster. Web Vitals evangelist, Chrome DevTools power user, and conference speaker.",
+      "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=200&q=80",
+      "cover": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+      "location": "Bangalore, India",
+      "website": "https://priyasharma.tech",
+      "stats": {
+        "articles": 19,
+        "followers": 5400,
+        "following": 143,
+        "views": 310000
+      },
+      "social": {
+        "twitter": "https://twitter.com",
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+      },
+      "topics": ["Performance", "Web Vitals", "CSS", "DevTools"],
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "David Kim",
+      "slug": "david-kim",
+      "role": "Open Source Maintainer",
+      "bio": "I maintain several popular open source projects and write about the intersection of community, code, and sustainability in software.",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+      "cover": "https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?w=1200&q=80",
+      "location": "Toronto, Canada",
+      "website": "https://davidkim.codes",
+      "stats": {
+        "articles": 15,
+        "followers": 8900,
+        "following": 567,
+        "views": 410000
+      },
+      "social": {
+        "twitter": "https://twitter.com",
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+      },
+      "topics": ["Open Source", "Community", "Go", "Rust"],
+      "featured": false
+    }
+  ]
+}

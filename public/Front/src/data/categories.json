@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Technology",
+      "slug": "technology",
+      "description": "Deep dives into the latest web technologies, frameworks, and tools shaping the future of software development.",
+      "icon": "fa-microchip",
+      "color": "#5B4BDB",
+      "bgColor": "rgba(91,75,219,0.1)",
+      "articleCount": 48,
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Design",
+      "slug": "design",
+      "description": "UI/UX design principles, design systems, Figma tips, and everything that makes products beautiful and usable.",
+      "icon": "fa-palette",
+      "color": "#FF6B35",
+      "bgColor": "rgba(255,107,53,0.1)",
+      "articleCount": 36,
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=600&q=80"
+    },
+    {
+      "id": 3,
+      "name": "React",
+      "slug": "react",
+      "description": "Everything React — hooks, patterns, Server Components, performance, testing, and the ecosystem around it.",
+      "icon": "fa-atom",
+      "color": "#4F8DFF",
+      "bgColor": "rgba(79,141,255,0.1)",
+      "articleCount": 52,
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Backend",
+      "slug": "backend",
+      "description": "APIs, databases, server architecture, authentication, and the full spectrum of backend engineering challenges.",
+      "icon": "fa-server",
+      "color": "#10B981",
+      "bgColor": "rgba(16,185,129,0.1)",
+      "articleCount": 29,
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&q=80"
+    },
+    {
+      "id": 5,
+      "name": "AI & ML",
+      "slug": "ai-ml",
+      "description": "Machine learning, LLMs, generative AI, and how artificial intelligence is transforming software development.",
+      "icon": "fa-brain",
+      "color": "#8B5CF6",
+      "bgColor": "rgba(139,92,246,0.1)",
+      "articleCount": 31,
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=600&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Performance",
+      "slug": "performance",
+      "description": "Core Web Vitals, optimization techniques, profiling, and strategies to make your applications blazing fast.",
+      "icon": "fa-gauge-high",
+      "color": "#F59E0B",
+      "bgColor": "rgba(245,158,11,0.1)",
+      "articleCount": 22,
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80"
+    },
+    {
+      "id": 7,
+      "name": "DevOps",
+      "slug": "devops",
+      "description": "CI/CD pipelines, containers, cloud infrastructure, monitoring, and the culture of DevOps engineering.",
+      "icon": "fa-gears",
+      "color": "#EC4899",
+      "bgColor": "rgba(236,72,153,0.1)",
+      "articleCount": 18,
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Career",
+      "slug": "career",
+      "description": "Interview preparation, negotiation strategies, career growth, remote work, and navigating the tech industry.",
+      "icon": "fa-briefcase",
+      "color": "#14B8A6",
+      "bgColor": "rgba(20,184,166,0.1)",
+      "articleCount": 15,
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=80"
+    }
+  ]
+}
